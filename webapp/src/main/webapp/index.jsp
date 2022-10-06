@@ -1,2 +1,10 @@
                                                                               
-<h1> Hello, Welcome to Rezo.ai, !!!</h1> 
+<html>
+<head>
+<title>Hello, Welcome to Rezo.ai</title>
+</head>
+<body>
+AI-POWERED CONTACT CENTER 
+Transforming Customer Experience
+</body>
+</html>

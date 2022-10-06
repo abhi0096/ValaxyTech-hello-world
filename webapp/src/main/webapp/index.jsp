@@ -1,10 +1,12 @@
                                                                               
 <html>
 <head>
-<title>Hello, Welcome to Rezo.ai</title>
+<title>Rezo.ai</title>
+<h1>Hello, Welcome to Rezo.ai</h1>
 </head>
 <body>
-AI-POWERED CONTACT CENTER 
-Transforming Customer Experience
+<h1>Hello, Welcome to Rezo.ai</h1>
+<h3>AI-POWERED CONTACT CENTER</h3> 
+<h3>Transforming Customer Experience</h3>
 </body>
 </html>
